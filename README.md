@@ -1,2 +1,2 @@
-# M2_CHAT_LOG_FIX
-M2 Chat Log Window Fix
+# M2 Chat-log Fix
+Fixed the render issue of the normal chat window while the chat-log window is open.
